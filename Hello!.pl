@@ -1,5 +1,3 @@
-# README
-
 Hello!
 
 My name is Suierov Daden and this is my personal Git. 
